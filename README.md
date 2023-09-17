@@ -2,7 +2,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/girik21?label=Followers&style=social)](https://github.com/girik21)
 [![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_handle?label=Follow&style=social)](https://twitter.com/your_twitter_handle)
 
-I'm a passionate software developer and music enthusiast based in [San Jose]. Welcome to my GitHub profile!
+I'm a passionate software developer and music enthusiast based in San Jose. Welcome to my GitHub profile!
 
 ## 🚀 My GitHub Stats
 
