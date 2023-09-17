@@ -2,7 +2,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/girik21?label=Followers&style=social)](https://github.com/girik21)
 [![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_handle?label=Follow&style=social)](https://twitter.com/your_twitter_handle)
 
-I'm a passionate software developer and music enthusiast based in [Your Location]. Welcome to my GitHub profile!
+I'm a passionate software developer and music enthusiast based in [San Jose]. Welcome to my GitHub profile!
 
 ## 🚀 My GitHub Stats
 
@@ -27,22 +27,16 @@ I enjoy working with a variety of technologies and tools, including:
 
 Here are some of my favorite projects:
 
-1. [Project Name](https://github.com/girik21/project-repo)
-   - Description: A brief description of the project and its significance.
-   - Technologies: List the key technologies used.
-   - ![GitHub stars](https://img.shields.io/github/stars/girik21/project-repo?style=social) [![GitHub forks](https://img.shields.io/github/forks/girik21/project-repo?style=social)](https://github.com/girik21/project-repo/network)
+1. [Pattern-Recongnition](https://github.com/girik21/Pattern-Recongnition-using-OpenCV)
+   - Description: Explore pattern recognition with OpenCV, a powerful image processing library. Learn to identify shapes and patterns in images.
+   - Technologies: Python, OpenCV.
 
-2. [Another Project](https://github.com/girik21/another-project)
-   - Description: A brief description of the project and its significance.
-   - Technologies: List the key technologies used.
-   - ![GitHub stars](https://img.shields.io/github/stars/girik21/another-project?style=social) [![GitHub forks](https://img.shields.io/github/forks/girik21/another-project?style=social)](https://github.com/girik21/another-project/network)
 
 ## 📫 Get in Touch
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me through:
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [girikaustuv@gmail.com](mailto:girikaustuv@gmail.com)
 - LinkedIn: [Kaustuv Giri](https://www.linkedin.com/in/kaustuvgiri/)
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
 
 Thanks for visiting my profile! 😄
