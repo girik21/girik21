@@ -31,12 +31,16 @@ Here are some of my favorite projects:
    - Description: Explore pattern recognition with OpenCV, a powerful image processing library. Learn to identify shapes and patterns in images.
    - Technologies: Python, OpenCV.
 
+2. [Tailored Resume](https://github.com/girik21/tailored-resume)
+   - Description: Resume enhancer app that leverages OpenAI to tailor it based on the job description.
+   - Technologies: Angular, SpringBoot, Firebase, MongoDb, Ngx-Admin UI
+
 
 ## 📫 Get in Touch
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me through:
 
 - Email: [girikaustuv@gmail.com](mailto:girikaustuv@gmail.com)
-- LinkedIn: [Kaustuv Giri](https://www.linkedin.com/in/kaustuvgiri/)
+- LinkedIn: [Kaustuv Giri](https://www.linkedin.com/in/girik24)
 
 Thanks for visiting my profile! 😄
