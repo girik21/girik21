@@ -6,8 +6,7 @@ I'm a passionate software developer and music enthusiast based in San Jose. Welc
 
 ## 🚀 My GitHub Stats
 
-![Kaustuv's GitHub stats](https://github-readme-stats.vercel.app/api?username=girik21&theme=radical&show_icons=true)
-
+[![Kaustuv's GitHub stats](https://github-readme-stats.vercel.app/api?username=girik21)]
 ## 🎧 Currently Listening To
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313b6rvx5ucax5eeim2sjhozmbe4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
