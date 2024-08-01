@@ -41,6 +41,5 @@ Here are some of my favorite projects:
 I'm always open to new opportunities and collaborations. Feel free to reach out to me through:
 
 - Email: [girikaustuv@gmail.com](mailto:girikaustuv@gmail.com)
-- LinkedIn: [Kaustuv Giri](https://www.linkedin.com/in/girik24)
 
 Thanks for visiting my profile! 😄
